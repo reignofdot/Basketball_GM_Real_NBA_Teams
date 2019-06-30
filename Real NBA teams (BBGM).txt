@@ -11,7 +11,7 @@
         {"tid": 8, "cid": 0, "did": 1, "region": "Detroit", "name": "Pistons", "abbrev": "DET", "imgURL": "https://i.imgur.com/PLoZqT1.png", "pop": 4.3},
         {"tid": 9, "cid": 1, "did": 5, "region": "Golden State", "name": "Warriors", "abbrev": "GSW", "imgURL": "https://i.imgur.com/FEmTA4S.png", "pop": 7.0},
         {"tid": 10, "cid": 1, "did": 3, "region": "Houston", "name": "Rockets", "abbrev": "HOU", "imgURL": "https://i.imgur.com/YGdgxcs.png", "pop": 6.3},
-        {"tid": 11, "cid": 1, "did": 1, "region": "Indiana", "name": "Pacers", "abbrev": "IND", "imgURL": "https://i.imgur.com/L7SmKs9.png", "pop": 2.0},
+        {"tid": 11, "cid": 0, "did": 1, "region": "Indiana", "name": "Pacers", "abbrev": "IND", "imgURL": "https://i.imgur.com/L7SmKs9.png", "pop": 2.0},
         {"tid": 12, "cid": 1, "did": 5, "region": "Los Angeles", "name": "Clippers", "abbrev": "LAC", "imgURL": "https://i.imgur.com/gWAnjWt.png", "pop": 13.1},
         {"tid": 13, "cid": 1, "did": 5, "region": "Los Angeles", "name": "Lakers", "abbrev": "LAL", "imgURL": "https://i.imgur.com/8lxeK7f.png", "pop": 13.1},
         {"tid": 14, "cid": 1, "did": 3, "region": "Memphis", "name": "Grizzlies", "abbrev": "MEM", "imgURL": "https://i.imgur.com/cnv4ovb.png", "pop": 1.4},
